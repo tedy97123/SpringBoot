@@ -9,3 +9,6 @@ AWS Elastic Beanstalk offers a similar approach to application deployment. It pr
 
 
 ![image](https://user-images.githubusercontent.com/91521891/192854721-d6c5d2a1-f617-4814-aad4-bb57272b294c.png)
+
+
+![image](https://user-images.githubusercontent.com/91521891/192855132-e15e4608-7581-4003-8235-a2f80031e185.png)
