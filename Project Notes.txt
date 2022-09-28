@@ -32,6 +32,6 @@ Development Porcess for AWSing this app,
 3. Connect to MYSQL database with MySQL workbench to verify the connectivity
 4. Clone Springboot application source code from github
 5. Update application.properties file to change Database MySQL URL property
-6. Package spring boot application as JAR file
+6. Package spring boot application as JAR file  (go to root of project --> mvn clean install ) also! make sure mysql db is running! before
 7.Deploy Springboot JRA file on AWSS using Elastic beanstalk service
 8.Test REST APIs using Insomnia client 
